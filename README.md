@@ -9,8 +9,8 @@ First thing’s first - when you have a suggestion, please take a look through t
 
 To start things off, select the appropriate category and give your discussion a descriptive title, making sure to add the appropriate label so we know what your suggestion is all about:
 
-|-|-|
 |Label|Description|
+|-|-|
 |✨ Feature Request| New Features for the Platform
 |🐛 Bug|  For Reporting Pesky Bugs
 |💡 Idea| Other Brilliant Ideas
