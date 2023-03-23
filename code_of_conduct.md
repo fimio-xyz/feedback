@@ -33,9 +33,4 @@ The following behaviors are considered as harassment and are unacceptable:
 * Violence, threats of violence, or violent language.
 
 ## Enforcement - Consequences of unacceptable behavior
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community activity participant engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the event without warning (and without refund in the case of a paid event).
 
