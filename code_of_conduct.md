@@ -1,36 +1,53 @@
-## Purpose
-The primary goal of this Code of Conduct is to be inclusive of the largest number of people, with the most diverse backgrounds possible. We are therefore committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
+# Contributor Covenant Code of Conduct
 
-This Code of Conduct outlines our expectations for all those who participate in our open to public events, as well as the consequences for unacceptable behavior.
+## Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+## Our Standards
+
+Examples of behavior that contributes to a positive environment for our community include:
+
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
+
+Examples of unacceptable behavior include:
+
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Contacting individual members, contributors, or leaders privately, outside designated community mechanisms, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
-This code and related procedures apply to unacceptable behavior occurring in all Doctolib developer events that are shared with members of the public, including behavior outside the scope of events—online and in person—as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and wellbeing of participants. 
 
-More precisely, we expect all meetup participants, sponsors, and other guests to abide by this Code of Conduct.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-## Expected Behavior
-The following behaviors are expected and requested of all developers, contributors and events participants:
-* **Be welcoming** | We strive to be a community that welcomes and supports people of all backgrounds and identities.
-* **Be kind and courteous** | There’s no need to be mean or rude.
-* **Be respectful** | Exercise consideration and respect in your speech and actions.
-* **Be involved** | Participate in an authentic and active way. In doing so, you contribute to the health and longevity of the community.
-* **Come in peace** | Exhaust collaboration options before conflict.
-* **Take differences into consideration** | Respect the fact that people have differences in opinions and that every design or implementation choice carries a trade-off and sometimes numerous costs. There seldom is a right answer.
-* **Be mindful of your fellow participants and surroundings** | Alert community leaders if you notice any dangerous situation, someone in distress, or violations of this Code of Conduct, even if they may seem inconsequential.
+## Reporting Code of Conduct Issues
+
+We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting [communitysafety@fimio.xyz](mailto:communitysafety@fimio.xyz).
+
+In your report please include all relevant incident information (usernames, date, times, screenshot, and so forth).
+
+All reports will be reviewed by our team and will result in a response that is deemed necessary and appropriate to the circumstances. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review team.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any action they deem appropriate, including a permanent ban from the community.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 
-## Unacceptable behavior
-
-The following behaviors are considered as harassment and are unacceptable:
-* Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory or offensive in nature.
-* Use of unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
-* Disrespect towards others, whether in jokes, innuendos, or dismissive attitudes.
-* Intimidation, online or in-person.
-* Disrespect towards differences of opinion.
-* Refusal to understand the differences between constructive criticism and disparagement.
-* Unsolicited disruption of community events, including talks and presentations.
-* Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop and apologize. You should have someone’s consent before touching them.
-* Violence, threats of violence, or violent language.
-
-## Enforcement - Consequences of unacceptable behavior
-
+[homepage]: https://www.contributor-covenant.org
