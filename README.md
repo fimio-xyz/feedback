@@ -18,6 +18,8 @@ To start things off, select the appropriate category and give your discussion a 
 
 Once you've created a title, and provided some context, we'll review your suggestion and feedback from the community to help our team prioritize features and improvements, recognizing that we cannot guarantee that we will be able to move forward with all suggestions.
 
+If you need some examples about topics/where to ask, [check out the wiki](https://github.com/fimio-xyz/feedback/wiki).
+
 
 ### We’re discussions first!
 
